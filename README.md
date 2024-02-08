@@ -1,2 +1,2 @@
 # Projects
-This is where I upload the projects I've worked on.
+This is where I upload the projects, either qualitative or quantitative, I've worked on.
